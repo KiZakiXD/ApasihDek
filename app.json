@@ -1,0 +1,68 @@
+//------------------ © Chitanda Multi - Device ------------------//
+/*
+• Ganti Sesukalu Gabutuh Nama
+• Cuman Belajar Liat Kanan Kiri
+*/
+
+{
+  "name": "KiZakiXD",
+  "description": "Tester Simple Bot WhatsApp",
+  "logo": "https://telegra.ph/file/2f60cc59c4214840040a4.jpg",
+  "keywords": ["pluginsbot","botwhastapp","botwa","kizakixd","chitanda-md","multiauth"],
+  "repository": "https://github.com/KiZakiXD/Nyoba-Plugins-Doang-Bang",
+  "website": "https://my.kizakixd.xyz",
+  "success_url": "https://my.kizakixf.xyz",
+  "stack": "container",
+  "env": {
+    "ANTI_LINK": {
+      "description": "true/false",
+      "required": false
+    },
+    "ANTILINK_ACTION": {
+      "description": "kick",
+      "required": false
+    },
+    "RMBG_KEY": {
+      "description": "Remove Backround Api ",
+      "required": false
+    },
+    "SESSION_ID": {
+      "description": "Your Session ID",
+      "required": true
+    },
+    "HANDLERS": {
+      "description": "Prefix For Commands, Enter False For No Prefix",
+      "required": true,
+      "value": ","
+    },
+    "LOGS": {
+      "description": "Show Logs From CMD",
+      "required": false
+    },
+    "PACKNAME": {
+      "description": "Sticker Packname",
+      "required": false
+    },
+
+    "GOODBYE_MSG": {
+      "description": "Leave Participants Message",
+      "required": false
+    },
+    "AUTHOR": {
+      "description": "Sticker Pack Author",
+      "required": false
+    },
+    "SUDO": {
+      "description": "Sudo Command",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku App Name, Same As Above Entered",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account api key, https://dashboard.heroku.com/account",
+      "required": true
+    }
+  }
+}
