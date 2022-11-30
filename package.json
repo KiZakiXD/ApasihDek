@@ -1,36 +1,36 @@
 {
-  "name": "HyNO",
-  "version": "2.0.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "name": "KiZakiXD",
+  "version": "1.0.0",
+  "description": "Simple Bot WhatsApp Multi Auth",
   "main": "./bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angela-ser/test-bot.git"
+    "url": "git+https://github.com/KiZakiXD/ApasihDek.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "asena",
+    "kizakixd",
     "api",
     "unlimited",
-    "asenadev",
+    "ztn",
     "machine learning",
     "automatic",
     "whatsapp web",
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "HyNo",
-  "developer": "HyNO / DEVIL",
+  "author": "KiZakiXD",
+  "developer": "ZtN & X-A",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Neeraj-x0/x-asena/issues"
+    "url": "https://github.com/KiZakiXD/ApasihDek/issues"
   },
-  "homepage": "https://github.com/Neeraj-x0/x-asena#readme",
+  "homepage": "https://github.com/KiZakiXD/ApasihDek#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
